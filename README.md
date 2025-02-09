@@ -1,7 +1,3 @@
-Here’s an enhanced version of your README file with the requested updates:
-
----
-
 # 👋 Hey there! I'm [Mohamed Saleh] - Software Enginner
 
 Mid-Level **Android Developer** with 3 years of experience crafting high-quality, user-focused applications using **Java** and **Kotlin**. I'm also a proficient **Spring Boot Developer**, working on backend services and building robust, scalable, and efficient solutions. Passionate about developing performant apps with modern architectures, I am dedicated to delivering scalable, well-structured solutions that exceed user expectations.
@@ -115,7 +111,3 @@ Outside of work, I actively contribute to **open-source projects**, write **tech
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mohamedsalehofficial), or drop me an email at [mohamedsalehofficial@gmail.com](mailto:mohamedsalehofficial@gmail.com).
 
 I'm always on the lookout for challenging projects and opportunities to collaborate with fellow developers and innovators. Let's build something amazing together.
-
----
-
-Let me know if you need further tweaks!
