@@ -1,113 +1,81 @@
-# 👋 Hey there! I'm [Mohamed Saleh] - Software Enginner
+# Mohamed Saleh
 
-Mid-Level **Android Developer** with 3 years of experience crafting high-quality, user-focused applications using **Java** and **Kotlin**. I'm also a proficient **Spring Boot Developer**, working on backend services and building robust, scalable, and efficient solutions. Passionate about developing performant apps with modern architectures, I am dedicated to delivering scalable, well-structured solutions that exceed user expectations.
+👨‍💻 Software Engineer | 🤖 Google Certified Associate Android Developer | 📱 Mobile Developer
 
-## 🌟 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/mohamedsalehofficial)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:mohamedsalehofficial@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-green)](https://github.com/mosaleh1)
 
-🚀 **Passionate Android Developer | Google Certified Associate Android Developer**  
-I specialize in creating scalable and high-performing applications using **Java** and **Kotlin**. With a strong focus on **Jetpack Compose** and **modern Android technologies**, I strive to push the boundaries of mobile development while adhering to best practices.  
+## 🚀 About Me
 
-🔧 **Spring Boot Expertise**  
-In addition to my Android expertise, I have experience with **Spring Boot** for backend services. I am passionate about building RESTful APIs, integrating microservices, and deploying secure, scalable applications with Spring.
+I'm a versatile software engineer with expertise in mobile development and backend technologies. Google Certified Associate Android Developer with a proven track record in developing enterprise-level applications. Passionate about creating efficient, scalable solutions and contributing to the developer community through mentorship.
 
-🛠️ **Expert in Building Scalable, Responsive, and High-Performing Applications**  
-Proficient in frameworks and tools such as **MVVM**, **LiveData**, **Room**, **Retrofit**, **Dagger/Hilt**, **Kotlin Coroutines**, **Jetpack Compose**, **Spring Boot**, and **Angular**.
+## 💼 Technical Skills
 
-📈 **Continuous Growth and Learning**  
-I stay ahead of the curve in Android and backend development trends, ensuring my skills remain sharp and impactful for the success of my projects.  
+### Mobile Development
+- **Android**: Kotlin, Java, Jetpack Compose, MVVM/MVI Architecture
+- **Cross-Platform**: Flutter, Compose Multiplatform
+- **Tools & Libraries**: CameraX, Room, Retrofit, SQLite, Dagger
+- **Features**: GPS Tracking, OCR Scanning, Offline-First Architecture
 
-🤝 **Proven Leadership in Collaborative Environments**  
-A strong team leader focused on fostering growth-oriented environments that drive both quality and innovation in software development.  
+### Backend Development
+- **Languages & Frameworks**: Java, Spring Boot
+- **Databases**: MySQL, MongoDB, Firebase
+- **Architecture**: Microservices, RESTful APIs
+- **Tools**: Kafka, Kubernetes, Spring Cloud, KeyCloak
 
-🌱 **Community Contributor**  
-Outside of work, I actively contribute to **open-source projects**, write **technical blogs**, and engage with the development community to share insights and foster learning.  
+## 🎯 Featured Projects
 
-🔗 [Google Certified Associate Android Developer](https://www.credential.net/55d871aa-6283-4953-8803-dda21bd0be06?key=1f9ccb968b7cdb6205a76e6dc21fd114584e566afda6d267e5bb5fb8ef3a55af)
+### 🚗 Cars Service Application (El7a2ny)
+- Developed a ride-hailing application similar to Uber
+- Implemented real-time location tracking and route optimization
+- Integrated secure payment processing and user authentication
+- Available on Google Play Store
 
----
-  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BirminghamDeveloper&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BirminghamDeveloper&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+### 🌸 Flowers E-commerce Application
+- Built using Flutter and Firebase
+- Features include:
+  - Real-time inventory management
+  - Secure payment integration
+  - Order tracking and delivery status
+  - User authentication and profile management
+  - Push notifications
 
-## 🛠 My Tech Stack
+### 📱 Enterprise Sales Applications
+#### OWOS - Supervisor Tablet App
+- Implemented MVI architecture with Jetpack Compose
+- Integrated GPS tracking and OCR scanning capabilities
+- Developed custom survey handling system
+- Built efficient image capture system using CameraX
 
-- **Languages:** C++, Java, Kotlin
-- **Architecture:** MVVM, MVI, Microservices
-- **Android SDK:** UI Design, Jetpack Components, Material Design
-- **Backend Technologies:** Spring Boot, RESTful APIs, Microservices
-- **Frontend:** Angular
-- **Databases:** MySQL, RealmDB, SQLite, Room
-- **Networking:** Retrofit, OkHttp, Koin
-- **Asynchronous Programming:** Asyncorounos, Coroutines, RxJava
-- **Dependency Injection:** Dagger 2, Hilt
-- **Version Control:** Git, GitHub
-- **CI/CD:** Jenkins, GitHub Actions
-- **Testing:** JUnit, Espresso, Mockito
+#### ShelfC - Sales Representative App
+- Engineered offline-first architecture using Room and Retrofit
+- Implemented secure data synchronization
+- Optimized for low-connectivity environments
+- Integrated advanced camera features for product documentation
 
-## My Skill Set  
+## 🎓 Education
+- Pursuing Diploma in Computer Science at Cairo University (2024-2026)
+- BSc in Business Administration from Al Alson Institute (2019-2023)
 
-<table><tr><td valign="top" width="33%">
+## 🏆 Certifications
+-[![ Google Certified Associate Android Developer](https://www.credential.net/55d871aa-6283-4953-8803-dda21bd0be06#acc.EPIv2oBA)
 
-<div align="center">  
-<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-</div>  
+## 👨‍🏫 Community Involvement
+- **Google Africa Developers**: Mentor for Associate Android Developer certification
+- **Google DSC**: Android development mentor at Al Azhar University
+- **Google IO Extended**: Event Manager for Google IO Extended Egypt 2023
 
-<div align="center">  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>
+## 🌟 Notable Achievements
+- Selected by US Department of State for exchange program in Virginia, USA
 
-</td><td valign="top" width="33%">
+## 📫 Get in Touch
+- LinkedIn:(https://www.linkedin.com/in/mohamedsalehofficial/)
+- Email: mohamedsalehofficial@gmail.com
+- Phone: +20-1094586523
 
-<div align="center">  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-<div align="center">  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="30" alt="angular logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mosaleh1&show_icons=true&theme=radical)
 
 ---
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/birminghamdeveloper/birminghamdeveloper/output/snake.svg" alt="Snake animation" />
-
----
-
-## 📫 How to Reach Me
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mohamedsalehofficial), or drop me an email at [mohamedsalehofficial@gmail.com](mailto:mohamedsalehofficial@gmail.com).
-
-I'm always on the lookout for challenging projects and opportunities to collaborate with fellow developers and innovators. Let's build something amazing together.
+⭐️ From [Mohamed Saleh](https://github.com/mosaleh1)
